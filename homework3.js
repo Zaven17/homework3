@@ -124,20 +124,7 @@ console.log(func8("vazgen","gexam",4));
         return nothing;
     }
 };
-console.log(runStaff( 10, 20,"fatima"));
+console.log(runStaff( 10, 20,"petros"));
 
-// another example of the runStuff function
 
-/*const runStaff=function(nu1,nu2,strr1){
-    const areatr=(nu1*nu2)/2;
-    const arearec=nu1*nu2;
-    const nothing=-1;
-    if(strr1==="rectangle"){
-        return arearec;
-    }else if(strr1==="triangle"){
-        return areatr;
-    }else{
-        return nothing;
-    }
-};
-console.log(runStaff( 10, 20,"triangle"));*/
+
